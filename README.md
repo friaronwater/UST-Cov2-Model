@@ -1,32 +1,28 @@
-# UST-Cov2-Model
 Description of the software used for the following article:
 
-************************************************************************
-*                                                                      *
-*  Mobility-Guided Modeling of the COVID-19 Pandemic in Metro Manila   *
-*                                                                      *
-*       Bernhard Egwolf [1,2] and Nicanor Austriaco, O.P. [3,*]        *
-*                                                                      *
-* [1] Research Center for Natural and Applied Sciences,                *
-*     University of Santo Tomas, Manila, Philippines.                  *
-* [2] Department of Mathematics and Physics, College of Science,       *
-*     University of Santo Tomas, Manila, Philippines.                  *
-* [3] Department of Biology, Providence College, Providence,           *
-*     Rhode Island, U.S.A.                                             *
-* [*] Corresponding Author:                                            *
-*     Rev. Nicanor Pier Giorgio Austriaco, O.P., Ph.D., S.T.D.         *
-*     Professor of Biology                                             *
-*     Providence College                                               *
-*     1 Cunningham Square                                              *
-*     Providence, RI 02918                                             *
-*     U.S.A.                                                           *
-*     Phone: +1-401-865-1690                                           *
-*     Email: naustria@providence.edu                                   *
-*                                                                      *
-*     Article accepted for publication in the Philippine Journal       *
-*     of Science.                                                      *
-*                                                                      *
-************************************************************************
+Mobility-Guided Modeling of the COVID-19 Pandemic in Metro Manila   
+
+Bernhard Egwolf [1,2] and Nicanor Austriaco, O.P. [3]
+
+[1] Research Center for Natural and Applied Sciences,                
+        University of Santo Tomas, Manila, Philippines.                  
+[2] Department of Mathematics and Physics, College of Science,       
+        University of Santo Tomas, Manila, Philippines.                  
+[3] Department of Biology, Providence College, Providence,           
+        Rhode Island, U.S.A.                                             
+
+Corresponding Author:                                           
+Rev. Nicanor Pier Giorgio Austriaco, O.P., Ph.D., S.T.D.         
+Professor of Biology                                             
+Providence College                                               
+1 Cunningham Square                                              
+Providence, RI 02918                                             
+U.S.A.                                                           
+
+Phone: +1-401-865-1690                                           
+Email: naustria@providence.edu                                   
+
+Article accepted for publication in the Philippine Journal of Science.                                                                                                             
 
 1. Origin of the Software
 
